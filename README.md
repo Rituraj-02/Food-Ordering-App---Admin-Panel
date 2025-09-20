@@ -24,23 +24,16 @@ View all placed orders with their real-time delivery status.
 Track pending vs delivered items.
 
 🍕 Food Item Management
-
 Add new food items with name, description, price, and image.
-
 Update or remove items from the Firebase Realtime Database.
 
 📊 Analytics
-
 Monitor total orders placed.
-
 Check statistics of pending and completed deliveries.
 
 ⚙️ Tech Implementation
-
 Android (Java, XML) → For building the Admin UI & functionality.
-
 Firebase Authentication → To secure admin login.
-
 Firebase Realtime Database → To store and sync food items, orders, and delivery status in real-time.
 
 📂 Repository Structure
@@ -67,22 +60,16 @@ Firebase Realtime Database → To store and sync food items, orders, and deliver
 🔧 Prerequisites
 
 Android Studio (latest version recommended)
-
 A Firebase project set up with:
-
 Firebase Authentication
-
 Firebase Realtime Database
 
 🛠 Setup Instructions
 
-Clone the repository: git clone https://github.com/Rituraj-02/Food-Ordering-App---Admin-Panel.git
-
-Open in Android Studio.
-
-Connect your app to Firebase:
-
-Add google-services.json file in the app/ directory.
+1.Clone the repository: git clone https://github.com/Rituraj-02/Food-Ordering-App---Admin-Panel.git
+2.Open in Android Studio.
+3.Connect your app to Firebase:
+4.Add google-services.json file in the app/ directory.
 
 Sync Gradle and run the project on an emulator or device.
 
