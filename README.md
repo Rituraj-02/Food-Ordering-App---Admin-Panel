@@ -44,14 +44,23 @@ Firebase Authentication → To secure admin login.
 Firebase Realtime Database → To store and sync food items, orders, and delivery status in real-time.
 
 📂 Repository Structure
+
 📦 Food-Ordering-App---Admin-Panel
+
  ┣ 📂 app
+ 
  ┃ ┣ 📂 src
+ 
  ┃ ┃ ┣ 📂 main
+ 
  ┃ ┃ ┃ ┣ 📂 java/com/example/pureplatesadmin  # Java code for Admin features
+ 
  ┃ ┃ ┃ ┣ 📂 res                             # XML layouts, drawables, etc.
+ 
  ┃ ┃ ┃ ┗ AndroidManifest.xml
+ 
  ┃ ┣ build.gradle
+ 
  ┗ README.md
 
 ▶️ Getting Started
