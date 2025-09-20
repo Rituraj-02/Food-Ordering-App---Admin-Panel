@@ -98,6 +98,4 @@ Sync Gradle and run the project on an emulator or device.
 <img src="https://github.com/Rituraj-02/Food-Ordering-App---Admin-Panel/blob/main/Admin%20Panel/Order%20Details.jpeg" width="250"/>
 
 
-🔗 Repository Link
 
-PurePlates - Admin Panel GitHub Repo
