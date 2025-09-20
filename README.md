@@ -83,7 +83,16 @@ Firebase Realtime Database
 
 Sync Gradle and run the project on an emulator or device.
 
-📸 Screenshots (Optional)
+📸 Screenshots
+
+🔐 Admin Login & Profile
+<img src="https://github.com/Rituraj-02/Food-Ordering-App---Admin-Panel/blob/main/Admin%20Panel/Admin%20Login.jpeg" width="250"/> <img src="https://github.com/Rituraj-02/Food-Ordering-App---Admin-Panel/blob/main/Admin%20Panel/Admin%20Profile.jpeg" width="250"/>
+
+🏠 Front Page & Hotel Menu
+<img src="https://github.com/Rituraj-02/Food-Ordering-App---Admin-Panel/blob/main/Admin%20Panel/Front%20Page.jpeg" width="250"/> <img src="https://github.com/Rituraj-02/Food-Ordering-App---Admin-Panel/blob/main/Admin%20Panel/Hotel%20Menu.jpeg" width="250"/>
+
+📦 Order Details
+<img src="https://github.com/Rituraj-02/Food-Ordering-App---Admin-Panel/blob/main/Admin%20Panel/Order%20Details.jpeg" width="250"/>
 
 
 🔗 Repository Link
